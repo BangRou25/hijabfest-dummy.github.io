@@ -14,7 +14,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "narsum-1": "url(./img/narsum-1.png)",
+        "narsum-1": "url(./img/narsum-1.jpg)",
+        "narsum-2": "url(./img/narsum-2.jpg)"
       },
     },
   },
