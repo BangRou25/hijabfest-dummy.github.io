@@ -6,16 +6,16 @@ module.exports = {
       sans: ["Poppins", "sans-serif"],
     },
     colors: {
-      'primary': '#ffd500',
-      'secondary': '#fafafa',
-      'tertiary': '#202020',
-      'accent': '#',
-      'dark': '#fafafa',
+      primary: "#ffd500",
+      secondary: "#fafafa",
+      tertiary: "#202020",
+      accent: "#",
+      dark: "#fafafa",
     },
     extend: {
       backgroundImage: {
-        'fashion-show': 'url(./img/fashion.jpg) rgba(255, 0, 150, 0.3);'
-      }
+        "narsum-1": "url(./img/narsum-1.png)",
+      },
     },
   },
   plugins: [],
