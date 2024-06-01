@@ -6,11 +6,11 @@ module.exports = {
       sans: ["Poppins", "sans-serif"],
     },
     colors: {
-      'primary': '#ffe5ec',
-      'secondary': '#ffc2d1',
-      'tertiary': '#fb6f92',
-      'accent': '#00b4d8',
-      'dark': '#231942',
+      'primary': '#ffd500',
+      'secondary': '#fafafa',
+      'tertiary': '#202020',
+      'accent': '#',
+      'dark': '#fafafa',
     },
     extend: {
       backgroundImage: {
